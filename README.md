@@ -40,6 +40,7 @@ Local Storage-:Saves password in Local Storage of your browser
 git clone https://github.com/Sambhav1401/PassVault-Manager.git
 cd PassVault-Manager
 ```
+## 🖼️ Screenshots
 <img width="1918" height="943" alt="Homepage" src="https://github.com/user-attachments/assets/593fb0d4-f571-433e-be68-89463def6f0a" />
 <img width="1919" height="932" alt="Storing Passwords" src="https://github.com/user-attachments/assets/bfef1688-2ca2-4c00-b51f-1442203789af" />
 
