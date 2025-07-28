@@ -20,7 +20,7 @@ Local Storage-:Saves password in Local Storage of your browser
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Tailwind CSS (optional)
+- **Frontend:** React, Tailwind CSS 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Version Control:** Git & GitHub
