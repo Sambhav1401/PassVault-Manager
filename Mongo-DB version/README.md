@@ -18,14 +18,8 @@ A secure and minimal password manager built with **React** for the frontend, **N
 
 - Frontend: React, Tailwind CSS
 - Backend: Node.js, Express, dotenv, MongoDB, body-parser
-- Database: MongoDB (local instance)
+- Database: MongoDB 
 
 ---
 
-## 🚀 Setup Instructions
 
-### 🔧 Backend Setup
-
-1. **Navigate to backend folder**:
-   ```bash
-   cd backend
